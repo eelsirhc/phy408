@@ -1,3 +1,10 @@
+aavso:
+  author: British Astronomical Association Variable Star Section
+  description: Variable Star Data
+  files:
+  - name: aavsodata_677fee5fb5e62.txt
+    sha256: c36e97214ba27305cd43dd309278daaa7722bf0ff79e310b47f4cd2bea97cc66
+  url: https://www.aavso.org
 cl:
   author: Christopher Lee
   description: Temperature sensor data from Purple Air MP8
@@ -102,3 +109,4 @@ sunspots:
   - name: EISN_current.csv
     sha256: a562df0d2aa182635e16f32be62a9109396112983e6efb1130f43d3aa0b0ec85
   url: https://www.sidc.be/SILSO/INFO/
+  credit: "Source: WDC-SILSO, Royal Observatory of Belgium, Brussels"
